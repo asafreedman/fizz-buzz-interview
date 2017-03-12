@@ -1,4 +1,4 @@
-#~~Ab~~Using Fizz Buzz
+#Fizz Buzz
 
 ##What is Fizz Buzz?
 
@@ -8,7 +8,7 @@ Fizz Buzz, if you're unsure, is a app, program, service (whatever buzz word happ
 
 Simple, right?!1
 
-Feel free to ask any questions to clarify or get help.  Google, Yahoo!, Bing, whatever are also available for use.  Also, talk out loud as you solve the problem.  Your reasoning and thought process are what's most important here.
+During the next couple steps feel free to ask any questions to clarify or get help.  Google, Yahoo!, Bing, whatever are also available for use.  Also, talk out loud as you solve the problem.  Your reasoning and thought process are what's most important here.
 
 ##What we would like you to do
 
