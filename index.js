@@ -16,7 +16,9 @@ const randomTimeout = () => (Math.floor(Math.random() * 5) + 1) * 1000;
  * @param callback
  */
 const moduloThreeAndFive = (number, callback) => {
-    if (isNaN(number) || typeof parseInt(number) !== 'number') {
+    number = parseInt(number);
+
+    if (isNaN(number) || typeof number !== 'number') {
         callback(`a number was not passed in, ${number} given instead`, null);
         return;
     }
