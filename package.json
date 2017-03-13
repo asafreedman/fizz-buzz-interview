@@ -1,0 +1,19 @@
+{
+  "name": "kc-fizz-buzz",
+  "version": "1.0.0",
+  "description": "Potentially obnoxious fizz buzz interview question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asafreedman/fizz-buzz-interview.git"
+  },
+  "author": "KC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asafreedman/fizz-buzz-interview/issues"
+  },
+  "homepage": "https://github.com/asafreedman/fizz-buzz-interview#readme"
+}
