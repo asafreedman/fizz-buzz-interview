@@ -2,7 +2,7 @@
 
 For this step we would like you to do the following:
 
-`For this part we've created a module that performs the modulo operation and determines if the number is divisible by three and/or five.  It's called *kc-fizz-buzz*.  Install this module using NPM and use it in your Fizz Buzz implementation.  One catch, though: it operates asynchronously and the response time is variable.  The function will return a Promise unless the last argument is a function where it will be called as a callback.  The callback follows Node.js callback conventions.  An example is provided below and a full description of the module is below.`
+`For this part we've created a module that performs the modulo operation and determines if the number is divisible by three and/or five.  It's called *af-three-five*.  Install this module using NPM and use it in your Fizz Buzz implementation.  One catch, though: it operates asynchronously and the response time is variable.  The function will return a Promise unless the last argument is a function where it will be called as a callback.  The callback follows Node.js callback conventions.  An example is provided below and a full description of the module is below.`
 
 ##kc-fizz-buzz
 
@@ -24,7 +24,7 @@ This may be a callback, following Node.js calling conventions.  That is, `argume
 
 This method, if successful, will return a `Promise` or call your callback with the following javascript object of the form:
 
-```
+```javascript
 {
   three: {boolean},
   five: {boolean}
@@ -35,7 +35,7 @@ This method, if successful, will return a `Promise` or call your callback with t
 
 ####Without callback
 
-```
+```javascript
 module
   .moduloThreeAndFive(15)
   .then(function() {
@@ -48,7 +48,7 @@ module
 
 ####With callback
 
-```
+```javascript
 module.moduloThreeAndFive(15, function(err, success) { 
   /* Some function body here */
 });
