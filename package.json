@@ -1,6 +1,6 @@
 {
   "name": "af-three-five",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To be used for the fizz buzz interview.",
   "main": "index.js",
   "scripts": {
