@@ -1,7 +1,7 @@
 {
-  "name": "kc-fizz-buzz",
+  "name": "af-three-five",
   "version": "1.0.0",
-  "description": "Potentially obnoxious fizz buzz interview question",
+  "description": "To be used for the fizz buzz interview.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/asafreedman/fizz-buzz-interview.git"
   },
-  "author": "KC",
+  "author": "AF",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/asafreedman/fizz-buzz-interview/issues"
   },
-  "homepage": "https://github.com/asafreedman/fizz-buzz-interview#readme"
+  "homepage": "https://github.com/asafreedman/fizz-buzz-interview#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
 }
