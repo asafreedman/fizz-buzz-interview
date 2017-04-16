@@ -9,7 +9,3 @@ Fizz Buzz, if you're unsure, is a app, program, service (whatever buzz word happ
 Simple, right?!1
 
 During the next couple steps feel free to ask any questions to clarify or get help.  Google, Yahoo!, Bing, whatever are also available for use.  Also, talk out loud as you solve the problem.  Your reasoning and thought process are what's most important here.
-
-##What we would like you to do
-
-1. Turn the page
